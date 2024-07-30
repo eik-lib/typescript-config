@@ -2,6 +2,7 @@
   "name": "@eik/typescript-config",
   "version": "1.0.0",
   "description": "Shared typescript config for Eik modules",
+  "type": "module",
   "files": [
     "module.json",
     "test.json"
