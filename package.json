@@ -1,0 +1,39 @@
+{
+  "name": "@eik/typescript-config",
+  "version": "1.0.0",
+  "description": "Shared typescript config for Eik modules",
+  "files": [
+    "module.json",
+    "test.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eik-lib/typescript-config.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/eik-lib/typescript-config/issues"
+  },
+  "homepage": "https://github.com/eik-lib/typescript-config#readme",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "npm run lint -- --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "typescript": ">= 5"
+  },
+  "devDependencies": {
+    "@eik/eslint-config": "1.0.0",
+    "@eik/prettier-config": "1.0.1",
+    "@eik/semantic-release-config": "1.0.0",
+    "eslint": "9.8.0",
+    "prettier": "3.3.3",
+    "semantic-release": "24.0.0"
+  }
+}
