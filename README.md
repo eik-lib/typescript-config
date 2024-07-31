@@ -28,7 +28,7 @@ Create two files in your root directory.
 
 ```json
 {
-  "extends": "@eik/typescript-config/module.json",
+  "extends": "@eik/typescript-config/test.json",
   "include": ["./tests/**/*.js"]
 }
 ```
