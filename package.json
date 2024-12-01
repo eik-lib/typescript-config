@@ -30,7 +30,7 @@
     "typescript": ">= 5"
   },
   "devDependencies": {
-    "@eik/eslint-config": "1.0.4",
+    "@eik/eslint-config": "1.0.5",
     "@eik/prettier-config": "1.0.1",
     "@eik/semantic-release-config": "1.0.0",
     "eslint": "9.13.0",
