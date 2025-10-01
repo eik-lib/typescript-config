@@ -30,9 +30,9 @@
     "typescript": ">= 5"
   },
   "devDependencies": {
-    "@eik/eslint-config": "1.0.20",
+    "@eik/eslint-config": "1.0.23",
     "@eik/prettier-config": "1.0.1",
-    "@eik/semantic-release-config": "1.0.5",
+    "@eik/semantic-release-config": "1.0.9",
     "eslint": "9.25.1",
     "prettier": "3.4.2",
     "rimraf": "6.0.1",
