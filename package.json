@@ -33,7 +33,7 @@
     "@eik/eslint-config": "1.0.23",
     "@eik/prettier-config": "1.0.1",
     "@eik/semantic-release-config": "1.0.10",
-    "eslint": "9.39.2",
+    "eslint": "9.39.3",
     "prettier": "3.7.4",
     "rimraf": "6.1.2",
     "semantic-release": "25.0.3"
