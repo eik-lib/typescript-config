@@ -1,6 +1,6 @@
 {
   "name": "@eik/typescript-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared typescript config for Eik modules",
   "type": "module",
   "files": [
