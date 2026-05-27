@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/eik-lib/typescript-config/compare/v1.0.1...v1.0.2) (2026-05-27)
+
+
+### Bug Fixes
+
+* Bump dependencies ([bb41a31](https://github.com/eik-lib/typescript-config/commit/bb41a31f46d6cc8ec0e83b734b5c7319f3ef870a))
+
 ## [1.0.1](https://github.com/eik-lib/typescript-config/compare/v1.0.0...v1.0.1) (2026-03-27)
 
 
