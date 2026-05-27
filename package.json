@@ -27,13 +27,13 @@
   "author": "",
   "license": "MIT",
   "peerDependencies": {
-    "typescript": ">= 5"
+    "typescript": ">= 6"
   },
   "devDependencies": {
-    "@eik/eslint-config": "1.0.25",
-    "@eik/prettier-config": "1.0.1",
-    "@eik/semantic-release-config": "1.0.15",
-    "eslint": "9.39.4",
+    "@eik/eslint-config": "2.0.5",
+    "@eik/prettier-config": "1.0.2",
+    "@eik/semantic-release-config": "1.0.16",
+    "eslint": "10.4.0",
     "prettier": "3.8.3",
     "rimraf": "6.1.3",
     "semantic-release": "25.0.3"
